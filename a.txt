@@ -1,4 +1,7 @@
 line1
 line2
 line3
+<<<<<<< HEAD
 line4
+=======
+>>>>>>> 4c683d861fa16dec24ca6ad04ec278c8f3a009b9
